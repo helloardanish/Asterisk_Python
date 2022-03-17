@@ -7,4 +7,5 @@
 ## Table Contents
 
 |  #  | Title           |  Solution       |
+|-----|---------------- | --------------- |
 | 1 | Print A | [Python](./print_A.ipynb) |
